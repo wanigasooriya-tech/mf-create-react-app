@@ -1,8 +1,11 @@
 {
-  "name": "mf-create-react-app",
+  "name": "@wanigasooriya-tech/mf-create-react-app",
   "version": "1.0.0",
   "description": "A CLI tool to initialize micro-front-end template project",
   "main": "cli.js",
+  "bin": {
+    "your-cli-command": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
