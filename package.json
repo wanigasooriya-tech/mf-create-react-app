@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/wanigasooriya-tech/mf-create-react-app/issues"
   },
-  "homepage": "https://github.com/wanigasooriya-tech/mf-create-react-app#readme"
+  "homepage": "https://github.com/wanigasooriya-tech/mf-create-react-app#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }
