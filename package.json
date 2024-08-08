@@ -1,6 +1,6 @@
 {
   "name": "@wanigasooriya-tech/mf-create-react-app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI tool to initialize micro-front-end template project",
   "main": "cli.js",
   "bin": {
